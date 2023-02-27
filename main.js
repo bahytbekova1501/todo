@@ -174,3 +174,4 @@ editSaveBtn.addEventListener("click", () => {
   //?вызываем функцию для изменения
   editProduct(id, editedProduct);
 });
+console.log("hello")
